@@ -1,2 +1,2 @@
-# Revising-with-Iris-dataset
+# Revision-with-Iris-dataset
 My classification algorithms revision with the iris dataset
